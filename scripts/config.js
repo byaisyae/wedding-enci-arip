@@ -71,7 +71,7 @@ const C = {
     },
   ],
   live: "", // link live streaming (kosongkan jika tidak ada)
-  music: "sound/Calum-Scott-You-Are-The-Reason-Official-Video.mp3", // lagu latar: taruh file mp3 di folder sound/
+  music: "sound/enci.mp4", // lagu latar: taruh file mp3 di folder sound/
   // alamat pengiriman kado (kosongkan {} jika tidak dipakai)
   giftAddress: {
     name: "Desi Nursanti",
